@@ -58,7 +58,7 @@ Many more HTML elements exist than what we have learnt so far. Research elements
 
 ### Step 5: Format and add comments 
 * Make sure that you have the Prettier VS Code extension installed. On the index page, right-click > Format document to apply proper formatting. Repeat for the about page and the stylesheet.
-* Add a few comments to explain your code, to point out any elements you have used that we haven't learnt about in class, to ask questions, or to highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->` or `<!-- I can't figure out how to write the subscribe field -->` 
+* Add a few comments to explain your code, to point out any elements you have used that we haven't learnt about in class, to ask questions, or to highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->` or `<!-- I can't figure out how to write the subscribe field, should I use a form element or a an input element? -->` 
 
 ### Step 6: Check for errors
 Use the VSCode HTMLHint extension and validate your code (https://validator.w3.org/#validate_by_upload) to make sure that it is correct. Take a screenshot of your HTML validation results, you will need to submit it in Brightspace.
