@@ -1,4 +1,4 @@
-# Exercise  - HTML Elements
+# Exercise 2 - HTML Elements
 
 ## Objectives
 Choose a website from the provided list and code the HTML for its homepage. You will use semantic HTML5 structural elements to create different groups of content. The content will include a variety of HTML content elements. An example of this exercise is provided (see folder called "example-exercise"), the example is the homepage of https://upnitlodge.ca/.
